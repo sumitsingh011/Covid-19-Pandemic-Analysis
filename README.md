@@ -28,6 +28,12 @@ The dataset includes data for five countries—USA, India, Brazil, Spain, and It
 It was saved and analyzed in Excel format, with all calculations, visualizations, and reports generated 
 within the same workbook.
 
+*Derived columns were added using formulas to calculate:* 
+
+**• Mortality Rate = Total Deaths / Total Cases** 
+
+**• Recovery Rate = Total Recovered / Total Cases**
+
 
 **Conclusion**
 - The COVID-19 analysis project successfully demonstrates how Microsoft Excel can be used as a 
