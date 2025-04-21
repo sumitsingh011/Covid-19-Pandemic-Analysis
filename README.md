@@ -13,7 +13,7 @@ pandemic’s global dynamics.
 
 
 **Dataset**
--The dataset used in this project is manually curated to represent realistic and illustrative COVID-19 
+- The dataset used in this project is manually curated to represent realistic and illustrative COVID-19 
 statistics between April 1 and April 8, 2020. The dataset includes the following columns for each country 
 on each day: 
 • Date: The calendar date of the report 
